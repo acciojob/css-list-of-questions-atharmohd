@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.firstquestion{
+.question1{
     background-color: #f8fffe; 
     height: 50px;
      margin-top: 20px;
@@ -8,7 +8,7 @@
       max-width: 600px; 
       border-left: 8px solid green;
 }
-.secondquestion{
+.question2{
     background-color: #f8fffe; 
     height: 50px;
      margin-top: 20px;
@@ -16,7 +16,7 @@
       max-width: 600px; 
       border-left: 8px solid green;
 }
-.thirdquestion{
+.question3{
     background-color: #f8fffe; 
     height: 50px;
      margin-top: 20px;
